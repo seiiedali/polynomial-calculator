@@ -56,3 +56,10 @@
 	The answer is: 
 	 + 96(x^4)(y^6) - 120(x^2)(y^5) - 92(x^2)(y) + 115 + 8(x^14)(y) - 10(x^12) - 36(x^3)(y^2) + 45(x)(y) - 80(x^4)(y^3) + 96(x^2)(y^2) + 5(y)
 ```
+## Additional Information
+This project is an assignment for data structure course so:
+- A linklist data structure is built from scratch in `LinkedArr` class
+- Entered value is interpreted in `Input` class
+- Each polynomial is stored in a `Poly` object
+- Input data is processed in `MainProcess` class
+And finally the output is printed.
